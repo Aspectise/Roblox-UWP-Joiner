@@ -11,3 +11,5 @@
 
 ![image2](https://github.com/Aspectise/Roblox-UWP-Joiner/assets/90333100/03a9a860-ef4d-4a8f-ace4-50c6316183f8)
 
+## Help
+If you want any help or you dont know how to set it up join the [Discord](https://discord.gg/deathsniper) !
